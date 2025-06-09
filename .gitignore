@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+my_logs/
+my_fashion_mnist/
+
+git rm -r --cached my_fashion_mnist
+
+
 # C extensions
 *.so
 
