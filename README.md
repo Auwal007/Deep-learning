@@ -53,7 +53,7 @@ Classification models are expected to be evaluated with:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mlp-regression-classification.git
+   git clone https://github.com/Auwal007/Deep-learning.git
    cd mlp-regression-classification
 
 2. Install dependencies:
